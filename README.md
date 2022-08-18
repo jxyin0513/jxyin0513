@@ -7,14 +7,9 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=jxyin0513.visitor-badge)
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jxyin0513&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jxyin0513&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> ![image](https://github-readme-stats.vercel.app/api/top-langs/?username=jxyin0513)
 
 <!--START_SECTION:waka-->
-
-```text
-No activity tracked
-```
-
 <!--END_SECTION:waka-->
 
 <!--
