@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there I'm Jingxun Yin👋
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=jxyin0513.visitor-badge)
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jxyin0513&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
 <!--
 **jxyin0513/jxyin0513** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
