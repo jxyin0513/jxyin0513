@@ -25,8 +25,6 @@
 - ⚡ Fun fact: I like to talk about product management, so feel free to shoot me email and talk about any UI, UX.
 
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jxyin0513&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> ![image](https://github-readme-stats.vercel.app/api/top-langs/?username=jxyin0513)
-
 
 <!--START_SECTION:waka-->
 
