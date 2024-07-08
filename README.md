@@ -29,11 +29,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TOML         1 hr 11 mins    ███████████████████▒░░░░░   77.72 %
-Text         12 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.44 %
-Git Config   4 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.74 %
-Other        3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 %
-Bash         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
