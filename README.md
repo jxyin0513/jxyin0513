@@ -29,10 +29,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TOML     14 mins         ███████████████████████░░   91.50 %
-Other    1 min           ██░░░░░░░░░░░░░░░░░░░░░░░   07.77 %
-Text     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 %
-Docker   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
